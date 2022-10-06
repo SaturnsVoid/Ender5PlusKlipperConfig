@@ -10,5 +10,7 @@ My Printer
     2209 Steppers
     BIGTREETECH TFT35 E3
     
+    Slicer is SuperSlicer
+    
     
     Running on a Raspberry Pi 3+ (B)
