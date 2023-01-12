@@ -6,6 +6,8 @@ My Klipper config for my Ender 5 Plus
 *   2209 Steppers
 *   BIGTREETECH TFT35 E3 (Emulator Mode)
 *   Raspberry Pi 3B+
+*   Dual Gear All Metal Extruder
+*   Capricorn Tubing
 *   Everything else stock
 
 Latest [SuperSlicer](https://github.com/supermerill/SuperSlicer) for Slicer with Custom Profiles. 
