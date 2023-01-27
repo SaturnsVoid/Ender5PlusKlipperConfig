@@ -6,7 +6,9 @@ My Klipper config for my Ender 5 Plus
 *   2209 Steppers
 *   BIGTREETECH TFT35 E3 (Emulator Mode)
 *   Raspberry Pi 3B+
-*   Dual Gear All Metal Extruder
+*   Raspberry Pi 3.5" Touch Screen (KlipperScreen)
+*   Micro Swiss NG
+*   5015 Cooling Fan
 *   Capricorn Tubing
 *   Everything else stock
 
