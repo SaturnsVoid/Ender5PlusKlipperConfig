@@ -10,6 +10,7 @@ My Klipper config for my Ender 5 Plus
 *   Micro Swiss NG
 *   5015 Cooling Fan
 *   Capricorn Tubing
+*   ADXL345 (Connected to Pi)
 *   Everything else stock
 
 Latest [SuperSlicer](https://github.com/supermerill/SuperSlicer) for Slicer with Custom Profiles. 
